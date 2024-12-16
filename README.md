@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on systems support
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, Html5 and CSS
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
